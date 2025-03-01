@@ -1,0 +1,1 @@
+# Quality-improving-of-a-NN-training-for-image-classification
